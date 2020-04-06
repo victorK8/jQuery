@@ -1,6 +1,6 @@
 ## jQuery Course (By Udacity)
 
-### Basics: DOM, $ and Selectors
+### 1. Basics: DOM, $ and Selectors
 
 #### Introduction
 
