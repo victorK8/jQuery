@@ -41,4 +41,4 @@ This methods  return a jQuery Collection. It is an array with some additional me
 ### Lesson 3. Event Listeners with jQuery
 
 
-### jQuery API Documentation [https://api.jquery.com/]
+### jQuery API Documentation https://api.jquery.com/
