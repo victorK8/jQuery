@@ -26,7 +26,11 @@ This methods  return a jQuery Collection. It is an array with some additional me
 #### How do I move in DOM tree?
 
 ``` $('#id').parent() ``` return parent of DOM element.
+
 ``` $('#id').parents() ``` return all parents of DOM element.
+
 ``` $('#id').children() ``` return children of DOM element.
+
 ``` $('#id').siblings() ``` return siblings of DOM element.
+
 ``` $('#id').find() ``` return children, grandchildren, etc of DOM element.
