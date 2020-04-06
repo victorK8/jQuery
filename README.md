@@ -1,6 +1,6 @@
 ## jQuery Course (By Udacity)
 
-### 1. Basics: DOM, $ and Selectors
+### Lesson 1. Basics: DOM, $ and Selectors
 
 #### Introduction
 
@@ -34,3 +34,11 @@ This methods  return a jQuery Collection. It is an array with some additional me
 ``` $('#id').siblings() ``` return siblings of DOM element.
 
 ``` $('#id').find() ``` return children, grandchildren, etc of DOM element.
+
+
+### Lesson 2. The tricks: DOM Manipulation
+
+### Lesson 3. Event Listeners with jQuery
+
+
+### jQuery API Documentation [https://api.jquery.com/]
