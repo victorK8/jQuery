@@ -38,7 +38,14 @@ This methods  return a jQuery Collection. It is an array with some additional me
 
 ### Lesson 2. The tricks: DOM Manipulation
 
+How to use jQuery API documentation in order to DOM manipulation.
+
+
+
+
 ### Lesson 3. Event Listeners with jQuery
+
+
 
 
 ### jQuery API Documentation https://api.jquery.com/
