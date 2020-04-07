@@ -38,7 +38,10 @@ This methods  return a jQuery Collection. It is an array with some additional me
 
 ### Lesson 2. The tricks: DOM Manipulation
 
-How to use jQuery API documentation in order to DOM manipulation.
+- How to use jQuery API documentation in order to DOM manipulation.
+- use of functions ```toggleClass(className)``` and ```next([selector])```
+
+
 
 
 
