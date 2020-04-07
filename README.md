@@ -48,6 +48,10 @@ This methods  return a jQuery Collection. It is an array with some additional me
   ```.attr(attributeName, [value]) ``` to get or set value to attribute
   
   ```.css(propertyname, [value])``` to get or set CSS property/style 
+  
+  ```.html(String) ``` to get or set html
+  
+  ```.text()``` to get or set text
 
 
 
