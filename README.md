@@ -39,10 +39,15 @@ This methods  return a jQuery Collection. It is an array with some additional me
 ### Lesson 2. The tricks: DOM Manipulation
 
 - How to use jQuery API documentation in order to DOM manipulation.
-- use of functions ```toggleClass(className)``` and ```next([selector])```
+- Use of jQuery functions:
 
-
-
+  ```.toggleClass(className)``` to add, remove and toggle class.
+  
+  ```.next([selector])``` to get next sibling.
+  
+  ```.attr(attributeName, [value]) ``` to get or set value to attribute
+  
+  ```.css(propertyname, [value])``` to get or set CSS property/style 
 
 
 
