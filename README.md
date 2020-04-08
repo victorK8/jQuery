@@ -52,7 +52,20 @@ This methods  return a jQuery Collection. It is an array with some additional me
   ```.html(String) ``` to get or set html
   
   ```.text()``` to get or set text
-
+  
+  ```.remove()``` to remove DOM elements
+  
+  ```.append()``` to insert DOM elements at the end of list of elements
+  
+  ```.prepend()``` to  DOM elements at the beginning of list of elements
+  
+  ```.insertBefore()``` to insert DOM elements before the target element
+  
+  ```.insertBefore()``` to inset DOM elements after the target element
+  
+  ```.each(function)``` to apply *function* to an array of DOM elements. Use ```$(this)``` to get current DOM element.
+  
+  ```$(function)```
 
 
 ### Lesson 3. Event Listeners with jQuery
