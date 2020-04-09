@@ -70,7 +70,27 @@ This methods  return a jQuery Collection. It is an array with some additional me
 
 ### Lesson 3. Event Listeners with jQuery
 
-- What are browser events? Actions that user do during browser navigation. For example, to clik the mouse. Google Chrome Browser has a function ```monitorEvents(ElementToWatch)``` (It doesn`t work in javascript).
+- **What are browser events?** Actions that user do during browser navigation. For example, to clik the mouse. Google Chrome Browser has  a function ```monitorEvents(ElementToWatch)``` (It doesn´t work in javascript).
+
+- For managing events, if it's needed three aspects:
+
+    - Target element to listen
+    
+    - Event we want to react
+    
+    - Actions to take in response
+
+- **Events with jQuery**
+
+``.on(events, function handler) `` function that attachs an event handler function for one or more events to the selected elements. 
+
+There are some shorcuts of that function based on event.
+
+
+
+
+
+
 
 
 
